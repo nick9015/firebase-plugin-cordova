@@ -1,1 +1,0 @@
-# firebase-plugin-cordova
